@@ -35,4 +35,4 @@ Escribe dentro del fichero el nombre y apellidos de los componentes
 ### Issues
 
 
-[[https://github.com/StoneyJackson/github-workflow-activity]]
+[Stoney Jackson's GitHub Workflow activity](https://github.com/StoneyJackson/github-workflow-activity)
