@@ -38,5 +38,5 @@ Escribe dentro del fichero el nombre y apellidos de los componentes
 [[https://github.com/StoneyJackson/github-workflow-activity]]
 
 Marcos Sanchez-Elez
-Luis Antonio rojas
 Carlos Fdez
+=======
